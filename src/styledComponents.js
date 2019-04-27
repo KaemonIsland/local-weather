@@ -10,7 +10,7 @@ export const Container = styled.div `
   border-radius: 1rem;
   border: .2rem solid blue;
   box-shadow: 0 .3rem .5rem rgba(0, 0, 0, .5);
-  width: 50%;
+  width: 23rem;
   margin: 0 auto;
   padding: .5rem;
   display: grid;
